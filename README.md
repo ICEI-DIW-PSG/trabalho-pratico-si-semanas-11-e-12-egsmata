@@ -9,7 +9,7 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 - Nome: Enrico Guilherme Silva da Mata
 - Matricula: 902513
 - Proposta de projeto escolhida: Lugares e Experiências
-- Breve descrição sobre seu projeto: Blog que mostra capitais do Brasil e pontos turísticos.
+- Breve descrição sobre seu projeto: Blog que mostra capitais do Brasil e pontos turísticos. Dinâmico com dados através de APIs e JSON Server.
 
 **Print dos testes da API com Postman ou similar**
 
@@ -25,7 +25,7 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-![alt text](image.png)
+![alt text](NETWORK.png)
 
 ## **Orientações Gerais**
 
