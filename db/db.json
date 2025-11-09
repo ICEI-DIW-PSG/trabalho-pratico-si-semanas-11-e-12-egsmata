@@ -14,5 +14,53 @@
       "nome": "Usuario Comum",
       "email": "user@abc.com"
     }
+  ],
+  "capitais": [
+    {
+      "id": "1",
+      "nome": "São Paulo",
+      "estado": "SP",
+      "regiao": "Sudeste",
+      "populacao": 12400000,
+      "descricao": "Maior cidade do Brasil e principal centro financeiro do país, conhecida por sua diversidade cultural",
+      "pontosTuristicos": [
+        "Avenida Paulista",
+        "Parque Ibirapuera",
+        "MASP",
+        "Pinacoteca"
+      ],
+      "imagem": "sao-paulo.jpg"
+    },
+    {
+      "id": "2",
+      "nome": "Rio de Janeiro",
+      "estado": "RJ",
+      "regiao": "Sudeste",
+      "populacao": 6747815,
+      "descricao": "Conhecida por suas praias e pelo Cristo Redentor",
+      "pontosTuristicos": [
+        "Cristo Redentor",
+        "Pão de Açúcar",
+        "Copacabana"
+      ],
+      "imagem": "rio-de-janeiro.jpg"
+    },
+    {
+      "id": "de63"
+    },
+    {
+      "id": "3cd7",
+      "nome": "Salvador",
+      "estado": "BA",
+      "regiao": "Nordeste",
+      "populacao": 2886698,
+      "descricao": "Primeira capital do Brasil, conhecida por sua rica cultura afro-brasileira",
+      "pontosTuristicos": [
+        "Pelourinho",
+        "Elevador Lacerda",
+        "Farol da Barra"
+      ],
+      "imagem": "salvador.jpg"
+    }
   ]
 }
